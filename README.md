@@ -19,9 +19,9 @@ A modern, responsive weather dashboard built with **React 19** and **Vite**. Thi
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Rohan-75/Weather_App.git](https://github.com/Rohan-75/Weather_App.git)
+   git clone 
    cd Weather_App
 2. **Install dependencies:**
     npm install
-3. **Run locally**
+3. **Run locally:**
     npm run dev
